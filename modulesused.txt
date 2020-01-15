@@ -1,3 +1,6 @@
+NOTE:-These modules must be installed in the system in order for the code to work.
+
+
 Speech Recognition: - The main feature of our PA is to the ability to be controlled by voice. The python module “speech_recognition” could
 be used to capturing audio command from the user. The Recognizer in the module can convert speech to text. The commands given by the user 
 is interpreted by python in form of text. Then the command is processed to give a output. 
@@ -33,4 +36,6 @@ SMTP Module:- This module is used to send mails.
 
 
 Other modules used: - OS module (for saving photos and videos captured in folder), random module (for giving random messages)
+
+
 
