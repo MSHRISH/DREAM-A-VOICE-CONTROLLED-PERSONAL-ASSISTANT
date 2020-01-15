@@ -1,0 +1,36 @@
+Speech Recognition: - The main feature of our PA is to the ability to be controlled by voice. The python module “speech_recognition” could
+be used to capturing audio command from the user. The Recognizer in the module can convert speech to text. The commands given by the user 
+is interpreted by python in form of text. Then the command is processed to give a output. 
+
+
+pyttsx3:- This is a python text-to-speech synthesizer. This module is important because our PA should be able to speak with the user 
+directly. 
+
+
+TKinter: - Off course we need our PA to be inside an easy to use interface. This module is used to create GUI (Graphical User Interface)
+applications. We don’t want our application to run in a terminal. 
+
+
+Web browser: - With this module we can surf through internet using the keyword got from the user. It can search and display results in 
+chrome.
+
+
+Wolfram alpha: -Wolfram alpha is a computational knowledge engine or answer engine developed by Wolfram Alpha LLC, a subsidiary of 
+Wolfram Research. It is an online service that answers factual queries directly by computing the answer from externally sourced
+"curated data", rather than providing a list of documents or web pages that might contain the answer as a search engine might. It
+is used in PA to calculate math problems, equations and functions given by the user. It returns the answer in form of audio.
+For example: - if we ask “what is sin 90?”, it will return answer as “1” in voice format.
+
+
+
+Open CV: - This module is used to capture pictures and record videos from web camera.
+
+
+Time module:- This module is used to get local time from user’s computer.
+
+
+SMTP Module:- This module is used to send mails.
+
+
+Other modules used: - OS module (for saving photos and videos captured in folder), random module (for giving random messages)
+
